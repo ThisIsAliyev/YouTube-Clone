@@ -1,0 +1,14 @@
+body {
+    font-family: roboto,Arial, Helvetica, sans-serif;
+    padding-bottom: 3000px;
+}
+
+.hamburger-menu ,
+.sidebar-container ,
+.youtube-logo ,
+.search-button ,
+.voice-search-button ,
+.icon ,
+.my-channel {
+    cursor: pointer;
+}
